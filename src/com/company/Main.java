@@ -1,6 +1,6 @@
 package com.company;
 public class Main {
-
+❤️
     public static void main(String[] args) {
 	// write your code here
         System.out.println("Hello Bro");
@@ -13,7 +13,7 @@ public class Main {
         //VARIABLES
         var fIRSTnUMBER  = 75;
         var lASTnUMBER = 25;
-        
+
 
         var Ag = fIRSTnUMBER - lASTnUMBER;
         System.out.println(Ag);
