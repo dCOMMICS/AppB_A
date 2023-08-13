@@ -17,6 +17,7 @@ public class Main {
         var Ag = fIRSTnUMBER - lASTnUMBER;
         System.out.println(Ag);
         if (Ag< 15){
+       
             System.out.println("Wonderful");
         }
 else {
